@@ -1,0 +1,110 @@
+p{
+ background: #EE75CE ;
+}
+p{
+ color: #12E1DA ;
+}
+.surati-1{
+	width: 500px;
+	height: 450px;
+    object-fit: cover;
+    border-radius: 20px;
+/*    opacity: 0.5;*/
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+}
+.surati-2{
+	width: 500px;
+	height: 450px;
+	object-fit: cover;
+	border-radius: 20px;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px
+}
+body{
+	background: #4EFFE1 ;
+}
+.texti-1{
+	color: #F3AF54 ;
+	font-size: 30px;}
+ul{
+	list-style-type: none ;
+}
+a{
+	text-decoration: none ;
+}
+.surati-3{
+	width: 500px;
+	height: 450px;
+	object-fit: cover;
+	border-radius: 20px;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px
+}
+.surati-4{
+	width: 500px;
+	height: 450px;
+	object-fit: cover;
+	border-radius: 20px;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px
+}
+.surati-5{
+	width: 500px;
+	height: 450px;
+	object-fit: cover;
+	border-radius: 20px;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px
+}
+.smile-1{
+	width: 600px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 20px;
+	margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px
+}
+header{
+	height: 270px;
+	background-color: #E52610;
+}
+.logo img{
+	width: 115px;
+	height: 65px;
+}
+.main-1 a{
+	color: #FFFFFF;
+	font-size: 20px ;
+}
+.satauri{
+	border: 5px double #1EC40B;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 1460px;
+	margin-bottom: 20px;
+}
+.texti{
+	border: 5px double #000;
+	padding: 50px;
+}
+nav, nav ul, nav li {
+	display: inline-block;
+	margin: 50px;
+}
+h1 {
+	display: inline-block;
+	font-size: 30px;
+}
