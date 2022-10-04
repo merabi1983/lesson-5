@@ -1,9 +1,4 @@
-p{
- background: #EE75CE ;
-}
-p{
- color: #12E1DA ;
-}
+
 .surati-1{
 	width: 500px;
 	height: 450px;
@@ -31,6 +26,7 @@ body{
 .texti-1{
 	color: #F3AF54 ;
 	font-size: 30px;}
+
 ul{
 	list-style-type: none ;
 }
@@ -93,12 +89,15 @@ header{
 	border: 5px double #1EC40B;
 	margin-left: 20px;
 	margin-top: 20px;
-	margin-right: 1460px;
+	margin-right: 1275px ;
 	margin-bottom: 20px;
 }
-.texti{
-	border: 5px double #000;
-	padding: 50px;
+.kutxeebi-div p{
+	width: 400px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	display: inline-block;
+	font-family: 'Medium';
 }
 nav, nav ul, nav li {
 	display: inline-block;
@@ -107,4 +106,36 @@ nav, nav ul, nav li {
 h1 {
 	display: inline-block;
 	font-size: 30px;
+}
+.kaxeti img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.qartli img{
+	width: 200px;
+	height: 200px ;
+    object-fit: cover;
+}
+.svaneti img{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+.guria img{
+	width: 200px ;
+	height: 200px;
+	object-fit: cover;
+}
+.samegrelo img{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+.inline-block{
+	display: inline-block;
+}
+section{
+	width: 900px;
+	margin: auto;
 }
