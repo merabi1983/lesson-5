@@ -98,6 +98,7 @@ header{
 	margin-left: 30px;
 	display: inline-block;
 	font-family: 'Medium';
+	vertical-align: middle;
 }
 nav, nav ul, nav li {
 	display: inline-block;
